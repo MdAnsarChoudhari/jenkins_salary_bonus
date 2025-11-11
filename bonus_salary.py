@@ -14,7 +14,8 @@ total_salary=float(salary)+bonus
 
 
 
-print("Script Name :", name)
+
+
 print("Base Salary: ", salary)  
 print("Bonus: ", bonus)
 print("Total Salary: ", total_salary)
