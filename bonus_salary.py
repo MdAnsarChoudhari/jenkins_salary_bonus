@@ -14,7 +14,7 @@ total_salary=float(salary)+bonus
 
 
 
-
+print("Script Name :",script_name)
 print("Base Salary: ", salary)  
 print("Bonus: ", bonus)
 print("Total Salary: ", total_salary)
